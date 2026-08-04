@@ -2,7 +2,7 @@
 title: This site
 description: A minimal personal blog and portfolio built with Astro.
 date: 2026-08-03
-repo: https://github.com/wLotherington/projects-and-thoughts
+repo: https://github.com/wLotherington/me
 ---
 
 The site you're reading right now. It started as the official Astro blog

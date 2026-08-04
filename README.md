@@ -1,4 +1,4 @@
-# projects-and-thoughts
+# me
 
 Personal blog and portfolio of Will Lotherington, live at
 [projects-and-thoughts.netlify.app](https://projects-and-thoughts.netlify.app).
