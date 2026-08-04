@@ -73,4 +73,6 @@ Good luck!
 
 *Related: [Mastery](https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560)*
 
+*I also talked about this on the [Opensourced podcast](/posts/opensourced-podcast/).*
+
 *Originally published on [Medium](https://medium.com/launch-school/full-time-job-and-launch-school-fa97faa300e7).*
