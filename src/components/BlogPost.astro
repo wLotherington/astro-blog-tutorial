@@ -3,7 +3,7 @@ const { url, title, date } = Astro.props;
 ---
 <li>
   <time datetime={date.toISOString()}>
-    {date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+    {date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' })}
   </time>
   <a href={url}>{title}</a>
 </li>

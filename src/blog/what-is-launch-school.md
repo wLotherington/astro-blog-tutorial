@@ -1,0 +1,118 @@
+---
+title: "What is Launch School? The best way to launch a software development career."
+pubDate: 2021-01-31
+description: "Why is Launch School better than a bootcamp, college, or MOOC?"
+tags: ["learning", "launch-school", "career"]
+---
+
+![](/blog/what-is-launch-school-1.jpeg) Photo by [SpaceX](https://unsplash.com/@spacex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/rocket-in-space?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+### Why is [Launch School](http://launchschool.com/) better than a bootcamp/college/mooc?
+
+> If you complete the [Launch School](http://launchschool.com/) program, you will be able to launch a long term career in software development; all other paths (bootcamps/colleges/moocs/etc.) have variable outcomes, you might end up with a career, you might end up with a job, or you might end up with nothing at all.
+
+I joined [Launch School](http://launchschool.com/) over 2 years ago and still struggle with explaining what exactly it is and why it is so amazing. People always want to group it in with bootcamps, colleges, or MOOCs, but it really doesn’t belong with any of those. I’ve been wrestling with the question, “why is [Launch School](http://launchschool.com/) better than a bootcamp/college/mooc” ever since I failed to convince my sister and one of my best friends to join. Despite all of my efforts, my sister chose the college route and my friend joined a bootcamp. I finally found the answer: If you complete the [Launch School](http://launchschool.com/) program, you will be able to launch a long term career in software development; all other paths (bootcamps/colleges/moocs/etc.) have variable outcomes, you might end up with a career, you might end up with a job, or you might end up with nothing at all.
+
+### Job vs. Career
+
+> …you would never expect someone to “get their foot in the door” as a fast-food fry cook, then work their way up to becoming a Michelin rated chef.
+
+Imagine a Michelin rated chef and a fast-food fry cook. This is a bit of a contrived example, but I think it is helpful to start with something glaringly obvious before moving to more subtle differences. Both of these people are making food, but it’s easy to imagine that the fast-food fry cook is only there to pay the bills while the Michelin rated chef is following their passion. It’s obvious that these two jobs are in completely different universes, you would never expect someone to “get their foot in the door” as a fast-food fry cook, then work their way up to becoming a Michelin rated chef. We intuitively know that the chef has spent countless hours honing their craft, and wouldn’t be surprised to find out that they went to culinary school or worked under some other great chef for a long period of time. This mastery over fundamental skillsets is critical if you want to get access to better roles that allow you to continue to grow.
+
+> The difference between a job and a career is the alignment, not the details.
+
+The fundamental difference between a job and a career is whether or not it aligns with your core goals. The last job I had was in marketing. As far as jobs go, it was pretty amazing: I liked my coworkers, had a lot of control over what I worked on, and was making ~140K/yr. Even though it was a great job, I didn’t consider it to be my career because it wasn’t something I wanted to grow in or master. The difference between a job and a career is the alignment, not the details. I had several coworkers who were working towards mastering their marketing skillsets, and for them it was a career, not a job. Going back to the restaurant example, the real difference between the fry cook and the chef isn’t the pay or the prestige, it’s the fact that the fry cook was just using their role to make a paycheck while the chef was using their role to continue to develop their skill.
+
+> Mastering fundamentals gives you access to better opportunities, but it is unlikely that you will be willing to put in the time needed unless it is something you actually want to master.
+
+The same role can be either a job or a career depending on the person doing it. It is possible to be a career fry cook who is trying to hone their craft, and it is possible to be a chef who is just working their job to pay the bills. The reason there are many more fry cook **jobs** than chef **careers** has to do with the amount of work it takes to get into these roles. If you only want to make a paycheck, it is unlikely that you will devote the years of practice needed to become a chef. Mastering fundamentals gives you access to better opportunities, but it is unlikely that you will be willing to put in the time needed unless it is something you actually want to master.
+
+### How to find what you actually want to master
+
+This brings up the problem of finding something you actually want to master. It’d be great if we were all like those kids we see who picked up golf/tennis/chess/violin before they could walk, and never stopped. This isn’t the case for most of us, but luckily there is still hope.
+
+> It doesn’t matter what you master first.
+
+It doesn’t matter what you master first. If you’re going around trying to find your passion or calling in life, you’re approaching the problem backwards and you will never find it. Many of us grow up thinking, “If I find my passion, then I will spend my life mastering it,” when in reality it should be, “If I learn how to master things, then I will find my passion.” The explanation for this argument is well beyond the scope of this post, but if you want to dig into it more I recommend reading Cal Newport’s [So Good They Can’t Ignore You](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/) first for a concise argument followed up by Anders Ericsson’s [Peak](https://www.amazon.com/Peak-Secrets-New-Science-Expertise/dp/0544947223/ref=sr_1_1) if you want the deep dive into the science.
+
+> Ironically, spending all of your time looking for your passion will almost certainly be the reason you don’t find it.
+
+Learning how to master things is much more difficult than finding your passion. Once you’ve mastered something, it is not only easier to recognize things you will probably be passionate about, but it is also possible to transition into them. Ironically, spending all of your time looking for your passion will almost certainly be the reason you don’t find it. Deciding what to master is actually quite simple:
+
+  1. Look at all of the paths that are readily accessible to you.
+  2. Rule out anything that is completely uninteresting.
+  3. Figure out which path gives you access to the best teacher and choose that one. (Teacher trumps tech stack every day of the week)
+
+> The better I got at these roles, the more control and access I was given.
+
+I switched majors several times throughout college because “I just wasn’t passionate about xyz.” Eventually I realized I needed to figure out how to stop accruing student debt so I ended up with an art degree and no real marketable skillsets. After about half a year of working a retail job, living in my grandparent’s basement, and being pretty depressed about the whole situation, I decided to forget about trying to find my passion and just figure out how to make money. I got the best “real job” I could land, which was an outside salesperson for an industrial automation company (still not sure why they gave me the job), and I threw myself into learning everything I could about being a damn good salesman. I read dozens of books over the next few years, and although I never “mastered sales”, I got decently proficient at it. All of the effort I put into my work skillsets did get recognized though and I was able to move to different roles within the company that were more aligned with things I actually enjoyed doing. After sales I became an application development engineer, and from there I moved to the analyst role on the marketing team. At each step of the way I dedicated tons of personal time to reading and online courses for the various skillsets that would help me in the role I was in. The better I got at these roles, the more control and access I was given.
+
+> “Mastery trumps passion”
+
+Eventually I realized that I was deeply interested in software development. I had dabbled in it growing up and had recently gone through a few books and online courses on the subject to become more effective in my analyst role. I had already bought into the “Mastery trumps passion” mentality, so I knew I needed to find a way to deeply master programming fundamentals if I ever wanted to make it my career. This wasn’t possible at my current company since all of the software roles were in Japan, and learning Japanese in addition to programming fundamentals seemed a little too ambitious. After hunting through all of the bootcamp/college/mooc options, I found [Launch School](http://launchschool.com/) through the [Learn to Code with Me Podcast](https://learntocodewith.me/podcast/fundamentals-first-with-chris-lee/) and knew immediately that it was deeply aligned with my core values. I kept my marketing job and spent 10-15 hours of personal time each week working through [Launch School’s](http://launchschool.com/) core curriculum. When I completed the core curriculum, I quit my job to be able to spend 100% of my time preparing for their Capstone program ([that’s what I’m doing right now](http://wlotherington.com/2020/10/18/better-goals.html)).
+
+### [Launch School](http://launchschool.com/) vs. lesser options
+
+If you want to master programming, go through [Launch School’s](http://launchschool.com/) free prep course right now. I’ve tried writing up an in depth comparison between [Launch School](http://launchschool.com/) and all of the other alternatives, but it always ends up in a confused mess. Instead I will just hit on the core reasons that make this program the best option for anyone wanting a long term career in software development.
+
+#### Fundamentals first, fundamentals throughout
+
+> …you are going to need some fundamentals to back up your resume.
+
+Launch School is completely focused on learning the core fundamentals of software development. You learn both Ruby and JavaScript while going through the program, but you never learn Rails or React. Instead you spend your time deeply learning OOP principles and deconstructing SQL queries and HTTP response/requests. A lot of prospective students compare this relatively short list of topics to the impressive list of technologies and frameworks you get exposure to at bootcamps, and worry that they will have trouble landing interviews. Remember the fry cook vs. chef example, mastering fundamentals gives you access to a completely different class of opportunities. Landing interviews is tough, but actually getting a job offer is significantly more challenging. If you just want interviews, a bootcamp will suffice, If you want offers from exciting opportunities and you actually want to be a valuable member of whatever team you join, you are going to need some fundamentals to back up your resume.
+
+All of the peripheral technologies and frameworks are important. They solve specific problems and come with specific tradeoffs. If you have a solid foundation of fundamentals you will understand why specific frameworks exist, and what problems they solve. In preparation for Capstone I am teaching myself both React and Ruby on Rails. I’ve spent enough time setting up HTTP routes, building SQL queries, and manually manipulating the DOM to appreciate how much magic is built into these frameworks. Furthermore, when I break something or get lost on whatever tutorial I am going through, I am comfortable with digging into the code and reading the documentation to figure out what is actually happening behind the scenes. Don’t worry, if you actually go through [Launch School’s](http://launchschool.com/) core + capstone, you will have a great resume that will get you interviews. More importantly you will have the skills needed to actually do the job and launch a career.
+
+#### The correct level of focus
+
+My parents and sister always seem to get caught up on the college thing. I get it, it’s what we’ve all been told was the “right” path, and it often comes with great professors and a comfortable level of prestige. College isn’t always a bad path, but it most certainly isn’t the most direct path. If you’re on earth and want to get to the moon, it’s probably a good idea to not make a pit stop at Mars on the way.
+
+The problem with college is that it is too general. Aspiring data scientists, web developers, system analysts, AI/ML engineers, and game developers all get more or less the same CS bachelors degree. My sister started off with learning C and Assembly, I’m not saying these are bad to learn, but I don’t think they should be the first thing every person interested in coding should spend their time on. They are much more useful to layer in after you have a solid mental model of how things fit together so you can appreciate these bedrock technologies and understand where they fit in with everything else. You never really master anything when getting your bachelors since colleges are organized around quarters or semesters. This typically isn’t enough time to really master something, and as long as you scrape by with a C or higher, you generally never have to revisit the subject. When you graduate with your bachelors, you end up knowing a little about a lot of things. If you really want to master something, you need to go down the Masters or PHD route, but these take a lot of time, cost a lot of money, and still function primarily on the fixed time period formula.
+
+Repeating the argument from earlier, it is better to master one thing as you converge on your “passion” than it is to try to dabble in lots of things looking for your passion with the plan of mastering it once you find it. Launch School narrowly focuses on mastering web development. This doesn’t mean you can only be a web developer, it just means you are going to master this skillset first which will open up opportunities and help you recognize what specific field you are deeply interested in. [Launch School](http://launchschool.com/) graduates end up in all sorts of roles including AI/ML, Virtual Reality, robotics, etc.. Once you master something it is easy to find your passion.
+
+Read through [Launch School’s Mastery Based Learning](https://launchschool.com/mastery) page to get a more in depth write up on this core principle.
+
+### Incredible alignment
+
+#### No VC Funding
+
+There are a decent amount of bootcamps and companies in the online learning space that have VC funding. As soon as you take VC funding, you have to be aligned with their goals on some level. Even if the founders are idealistically altruistic, it will be incredibly difficult for them not to consider how their actions affect profitability and growth.
+
+[Launch School](http://launchschool.com/) is intentionally not VC backed to ensure they can keep their incentives perfectly aligned with the students. [Launch School](http://launchschool.com/) students pay a monthly subscription fee throughout their time with the program and a certain percentage of their first year base salary once they complete capstone and launch their career. If you look at the total amount of money [Launch School](http://launchschool.com/) makes from a student that completes core + capstone, the bulk of the money comes from the percentage of the student’s first year income. The monthly subscription fee helps cover their basic operating costs and prevents them from trying to rush as many people through to capstone so they can get a payday. Having capstone paid for solely from the percentage of your first year base salary ensures they are completely aligned with trying to help you find a great job.
+
+#### No entrapment
+
+Both colleges and bootcamps have incredibly variable outcomes, you might end up with a career, you might end up with a job, and you might end up with nothing at all. Because of this, both colleges and bootcamps need a way to ensure they make money from each student regardless of how well things work out for the individual.
+
+You pay tuition when going to college which is an upfront cost with no refunds. Unlike [Launch School’s](http://launchschool.com/) subscription, you can’t quit after a month and only pay for a month. I have a friend who dropped out of a crazy private college after 1 year and is still paying down his $40K loan. Additionally, unlike [Launch School’s](http://launchschool.com/) business model that makes the bulk of its money off of a student's **successful** career launch, colleges make almost all of their money off of the tuition, this is a strong incentive to keep students in college for as long as possible. It seems very questionable that college degrees come with a huge list of barely relevant pre-requisites, and that you pretty much have to get a masters or PHD if you actually want to get any level of mastery in the field you are interested in. The real value you get from a bachelors degree isn’t the generalist knowledge you leave with, but the prestigious degree that you hope will help you network and get interviews. If you don’t complete all of the pre-requisites and stick around for long enough, you aren’t given this primary benefit, regardless of how much you did or didn’t learn.
+
+Bootcamps are a little different. Many do have upfront tuition costs that have the same non-refundability that college tuitions have, but most also have some sort of income sharing agreement. On the surface, these ISA’s look a lot like [Launch School’s](http://launchschool.com/) Capstone agreement, but the devil’s in the details. By the time you complete the [Launch School](http://launchschool.com/) core curriculum, you have the skills needed to complete capstone and launch a career. For a long time [Launch School](http://launchschool.com/) didn’t put up a “job placement” stat on their results page because getting a job after capstone was a given to them. 100% of capstone grads get jobs, with the average salary being over $100K. I don’t know of any bootcamp that has either 100% job placement or >$100K average salary… [Launch School](http://launchschool.com/) has both. Similar to the college quarter/semester model, bootcamps have a fixed time window. This time constraint means there will be variable outcomes for their students. To guarantee they make enough off of each student, most bootcamps come up with ridiculous ISA agreements many of which are in effect for several years and apply even if you get a job outside of programming.
+
+![](/blog/what-is-launch-school-2.png)
+
+#### Even more “no entrapment”
+
+On top of having their core business model strongly aligned with their students’ best interest, [Launch School](http://launchschool.com/) goes a step further and offers a [Deferred Payment Program](https://launchschool.com/deferred). Their DPP essentially lets you postpone paying the subscription fees until after you’ve landed a programming job. Their subscription fee is already extremely reasonable when compared to the alternatives, but they wanted to make their program accessible to people who would not be able to afford the subscription. You do have to apply for the DPP program because they want to make sure you have the right expectations and alignment with the program (this goes back to the question of if you are just looking for a job or if you want to launch a career). They go a step further in keeping this aligned with the students: (1) if you don’t finish the program, you only have to pay the amount of the subscription for the months you attended the program, and (2) if you go through the whole program and can’t find a job, you don’t have to pay anything… ever. [Launch School](http://launchschool.com/) has structured themself to be completely aligned with the singular goal of helping EVERY student launch a long term career in software development.
+
+### Devils Advocate
+
+#### [Launch School](http://launchschool.com/) is not for everyone
+
+If you aren’t committed to the mastery journey (read [Mastery](https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560/ref=sr_1_2) by George Leonard), you won’t like it.
+
+I gave up on trying to convince my sister about the superiority of [Launch School](http://launchschool.com/) when she made it clear that the most important thing to her was the prestige of being able to say she went to a specific college. If you want people to “oooo” and “aaahhhh” when you tell them where you went to college, [Launch School](http://launchschool.com/) is not a good fit for you.
+
+My friend did concede that [Launch School](http://launchschool.com/) seemed like an amazing program, but at the end of the day, he wanted to try to find a job as quickly as possible. I get it, we are all in different situations, and if your chief concern is a steady income stream ASAP, it will be hard to fully buy into the long term masters journey. I’d still argue that if you really do need the money, and if you really can’t survive for the 1-3 years that it takes to get through LS (even with the [DPP](https://launchschool.com/deferred)), then it would be better to skip the bootcamp and get any job you can get right now that can cover your base cost of living, and start your journey to mastering programming fundamentals at [Launch School](http://launchschool.com/).
+
+#### Aren’t colleges more prestigious?
+
+It’s true that it’s harder to name drop [Launch School](http://launchschool.com/) than it is most colleges. I would argue that I would rather impress people with my work than with my diploma. Also, those colleges are prestigious because they have a higher than average outcomes which is a result of their exclusivity (read [Launch School’s Mastery Based Learning](https://launchschool.com/mastery) page if you haven’t). [Launch School’s](http://launchschool.com/) results are incredible and will eventually also be a “prestigious” place to have learned from. The difference is that they don’t exclude people on the front end, if you are committed to the mastery journey, the [Launch School](http://launchschool.com/) program will help you launch a long term career in software development.
+
+#### Where’s your “awesome” career?
+
+It’s true, I haven’t launched my career yet. I finished up the core curriculum and am preparing for the Spring 2021 capstone cohort. We all read books where everything the person did made so much sense and was so amazing, but these accounts are almost always written in retrospect. We only ever hear about the things that worked and the bets that paid off. I thought about postponing this post until after I completed capstone and found a job, but I decided it would be more valuable to share all of the reasons I’ve gone all in on [Launch School](http://launchschool.com/) before I actually complete my journey. I’ll write an update when I have results to show for it, for now you just have to decide if you do or do not agree with my arguments, and if you are willing to trust the [Launch School](http://launchschool.com/) method.
+
+If you find anything in this post particularly interesting, or if you strongly agree or disagree with something I’ve shared, please feel free to shoot me an email at [will@lotherington.dev](mailto:will@lotherington.dev), it’d be great to hear your thoughts!
+
+*Originally published on [Medium](https://medium.com/launch-school/what-is-launch-school-the-best-way-to-launch-a-software-development-career-fde9f6051fc6).*

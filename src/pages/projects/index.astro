@@ -16,7 +16,7 @@ const projects = (await getCollection("projects"))
     {projects.map((project) => (
       <li>
         <a href={`/projects/${project.id}/`}>{project.data.title}</a>
-        <span class="muted year">{project.data.date.getFullYear()}</span>
+        <span class="muted year">{project.data.date.getUTCFullYear()}</span>
         {project.data.pinned && <span class="pin-label">Pinned</span>}
         <p class="muted">{project.data.description}</p>
       </li>

@@ -7,7 +7,7 @@ const { frontmatter } = Astro.props;
   <article>
     <h1>{frontmatter.title}</h1>
     <p class="article-meta">
-      {frontmatter.date.getFullYear()}
+      {frontmatter.date.getUTCFullYear()}
       {' · '}
       {frontmatter.description}
       {(frontmatter.repo || frontmatter.link) && (

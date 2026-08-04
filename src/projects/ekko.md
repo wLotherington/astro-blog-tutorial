@@ -8,14 +8,14 @@ repo: https://github.com/ekko-realtime
 pinned: true
 ---
 
-<img src="/ekko-logo.png" alt="Ekko logo" width="88" />
+<img src="/projects/ekko-logo.png" alt="Ekko logo" width="88" />
 
 Ekko is an open-source framework that provides realtime infrastructure and
 in-transit message processing for web applications. It lets developers deploy
 scalable realtime infrastructure to AWS with a CLI tool, and process messages
 *as they move through the system* using modular serverless functions.
 
-<video autoplay loop muted playsinline src="/ekko-infrastructure.mp4" aria-label="Animated diagram of Ekko's realtime infrastructure"></video>
+<video autoplay loop muted playsinline src="/projects/ekko-infrastructure.mp4" aria-label="Animated diagram of Ekko's realtime infrastructure"></video>
 
 ## What it does
 
@@ -27,7 +27,7 @@ scalable realtime infrastructure to AWS with a CLI tool, and process messages
 
 Deploying the whole thing takes a single command from the Ekko CLI:
 
-<video controls muted playsinline preload="metadata" src="/ekko-deploy-teal.mp4" style="border-radius: 12px;" aria-label="Terminal recording of deploying Ekko from the CLI"></video>
+<video controls muted playsinline preload="metadata" src="/projects/ekko-deploy-teal.mp4" style="border-radius: 12px;" aria-label="Terminal recording of deploying Ekko from the CLI"></video>
 
 ## Learn more
 
