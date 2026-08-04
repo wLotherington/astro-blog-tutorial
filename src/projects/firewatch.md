@@ -40,8 +40,11 @@ are subtly wrong:
 - **The core is a pure engine with no I/O**, heavily tested, with the server
   and dashboard as thin layers on top of it.
 - **Local-first is a feature, not a limitation.** The only network calls are
-  anonymous price lookups. The planned Apple Watch complication will talk to
-  it over Tailscale; there will never be a public API.
+  anonymous price lookups. Even the AI is local: statement extraction and
+  transaction categorization will run on a self-managed model (llama.cpp) on
+  your own machine, so no financial data is ever sent anywhere, LLM included.
+  The planned Apple Watch complication will talk to it over Tailscale; there
+  will never be a public API.
 - **A public repo about private finances has to defend itself.** The data
   directory lives outside the repo, a pre-commit hook blocks statement-like
   files and card-number-shaped strings, and every test fixture is synthetic,
