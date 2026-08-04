@@ -21,6 +21,7 @@ const projects = defineCollection({
     repo: z.url().optional(),
     link: z.url().optional(),
     linkLabel: z.string().default("Live"),
+    video: z.url().optional(),
     pinned: z.boolean().default(false),
   })
 });

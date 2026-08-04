@@ -5,6 +5,7 @@ date: 2021-06-01
 link: https://ekko-realtime.com/
 linkLabel: Case study
 repo: https://github.com/ekko-realtime
+video: https://www.youtube-nocookie.com/embed/c9YtUud3u0o
 pinned: true
 ---
 
@@ -31,9 +32,11 @@ Deploying the whole thing takes a single command from the Ekko CLI:
 
 ## Learn more
 
+I gave a talk about Ekko at JS Monthly:
+
+<iframe class="video-embed" loading="lazy" src="https://www.youtube-nocookie.com/embed/c9YtUud3u0o" title="Ekko talk at JS Monthly" allowfullscreen></iframe>
+
 The full engineering story, covering the problem space, architecture, and
 trade-offs, is in the [case study](https://ekko-realtime.com/). The source is
-on [GitHub](https://github.com/ekko-realtime), and you can
-[watch the talk](https://www.youtube.com/watch?v=c9YtUud3u0o) I gave about
-Ekko at JS Monthly. Built with Alex Strick van Linschoten, Dorey Miller, and
-Drew Holbrook.
+on [GitHub](https://github.com/ekko-realtime). Built with Alex Strick van
+Linschoten, Dorey Miller, and Drew Holbrook.

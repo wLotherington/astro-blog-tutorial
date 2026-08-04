@@ -26,6 +26,9 @@ const otherProjects = allProjects.filter((project) => !project.data.pinned);
       <p class="pinned-label">Pinned</p>
       <h3><a href={`/projects/${pinned.id}/`}>{pinned.data.title}</a></h3>
       <p class="pinned-description">{pinned.data.description}</p>
+      {pinned.data.video && (
+        <iframe class="video-embed pinned-video" loading="lazy" src={pinned.data.video} title={`${pinned.data.title} talk video`} allowfullscreen></iframe>
+      )}
       <p class="pinned-links">
         <a href={`/projects/${pinned.id}/`}>Read more</a>
         {pinned.data.link && <> · <a href={pinned.data.link}>{pinned.data.linkLabel}</a></>}
@@ -82,6 +85,10 @@ const otherProjects = allProjects.filter((project) => !project.data.pinned);
 
   .pinned-description {
     margin: 0 0 0.625rem;
+  }
+
+  .pinned-video {
+    margin-bottom: 0.75rem;
   }
 
   .pinned-links {
