@@ -12,7 +12,7 @@ to talk about how that actually works day to day: deciding whether the
 investment was worth it, finding the hours, and protecting the deliberate
 practice that mastery-based learning demands.
 
-<audio controls preload="none" src="https://anchor.fm/s/48a4e64/podcast/play/7223463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-17%2F29679693-32000-1-51dbc9dba0a97.m4a"></audio>
+<audio controls preload="none" src="/audio/opensourced-learn-to-code-while-working.m4a"></audio>
 
 If the player doesn't work, you can [listen on
 Spotify](https://podcasters.spotify.com/pod/show/opensourced/episodes/How-To-Learn-How-To-Code-While-Working-Full-Time--Launch-School-Student-William-Lotherington-e7qun7).
