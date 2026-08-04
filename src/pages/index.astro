@@ -20,10 +20,11 @@ const otherProjects = allProjects.filter((project) => !project.data.pinned);
     a place for writing, and for the projects I build on the side.
   </p>
 
+  <h2>Projects</h2>
   {pinned && (
     <section class="pinned">
-      <p class="pinned-label">Pinned project</p>
-      <h2><a href={`/projects/${pinned.id}/`}>{pinned.data.title}</a></h2>
+      <p class="pinned-label">Pinned</p>
+      <h3><a href={`/projects/${pinned.id}/`}>{pinned.data.title}</a></h3>
       <p class="pinned-description">{pinned.data.description}</p>
       <p class="pinned-links">
         <a href={`/projects/${pinned.id}/`}>Read more</a>
@@ -32,16 +33,6 @@ const otherProjects = allProjects.filter((project) => !project.data.pinned);
       </p>
     </section>
   )}
-
-  <h2>Recent writing</h2>
-  <ul class="item-list">
-    {posts.map((post) => (
-      <BlogPost url={`/posts/${post.id}/`} title={post.data.title} date={post.data.pubDate} />
-    ))}
-  </ul>
-  <p><a href="/blog/">All posts →</a></p>
-
-  <h2>More projects</h2>
   <ul class="item-list">
     {otherProjects.map((project) => (
       <li>
@@ -50,11 +41,19 @@ const otherProjects = allProjects.filter((project) => !project.data.pinned);
       </li>
     ))}
   </ul>
+
+  <h2>Recent writing</h2>
+  <ul class="item-list">
+    {posts.map((post) => (
+      <BlogPost url={`/posts/${post.id}/`} title={post.data.title} date={post.data.pubDate} />
+    ))}
+  </ul>
+  <p><a href="/blog/">All posts →</a></p>
 </BaseLayout>
 
 <style>
   .pinned {
-    margin: 2.5rem 0;
+    margin: 0 0 1rem;
     padding: 1.25rem 1.5rem;
     border: 1px solid var(--color-faint);
     border-radius: 8px;
@@ -68,15 +67,16 @@ const otherProjects = allProjects.filter((project) => !project.data.pinned);
     color: var(--color-muted);
   }
 
-  .pinned h2 {
+  .pinned h3 {
     margin: 0 0 0.375rem;
+    font-size: 1.125rem;
   }
 
-  .pinned h2 a {
+  .pinned h3 a {
     text-decoration: none;
   }
 
-  .pinned h2 a:hover {
+  .pinned h3 a:hover {
     text-decoration: underline;
   }
 
