@@ -4,7 +4,10 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 
 const pageTitle = "Projects";
 const projects = (await getCollection("projects"))
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+  .sort((a, b) =>
+    (b.data.pinned ? 1 : 0) - (a.data.pinned ? 1 : 0) ||
+    b.data.date.valueOf() - a.data.date.valueOf()
+  );
 ---
 
 <BaseLayout pageTitle={pageTitle} description="Projects by Will Lotherington.">
@@ -13,6 +16,7 @@ const projects = (await getCollection("projects"))
     {projects.map((project) => (
       <li>
         <a href={`/projects/${project.id}/`}>{project.data.title}</a>
+        {project.data.pinned && <span class="pin-label">Pinned</span>}
         <p class="muted">{project.data.description}</p>
       </li>
     ))}
@@ -41,5 +45,17 @@ const projects = (await getCollection("projects"))
 
   .project-list p {
     margin: 0.125rem 0 0;
+  }
+
+  .pin-label {
+    margin-left: 0.5rem;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-muted);
+    border: 1px solid var(--color-faint);
+    border-radius: 4px;
+    padding: 0.0625rem 0.375rem;
+    vertical-align: 0.125rem;
   }
 </style>
