@@ -17,6 +17,7 @@ const projects = (await getCollection("projects"))
       <li>
         <a href={`/projects/${project.id}/`}>{project.data.title}</a>
         <span class="muted year">{project.data.date.getUTCFullYear()}</span>
+        {project.data.wip && <span class="wip-badge">WIP</span>}
         {project.data.pinned && (
           <svg class="pin-icon" viewBox="0 0 16 16" width="14" height="14" role="img" aria-label="Pinned">
             <title>Pinned</title>

@@ -209,3 +209,16 @@ article .article-meta {
 .tag-list a:hover {
   text-decoration: underline;
 }
+
+.wip-badge {
+  margin-left: 0.375rem;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-muted);
+  border: 1px solid var(--color-faint);
+  border-radius: 4px;
+  padding: 0.0625rem 0.375rem;
+  vertical-align: 0.1875rem;
+}

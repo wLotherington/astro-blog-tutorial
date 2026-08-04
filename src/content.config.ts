@@ -23,6 +23,7 @@ const projects = defineCollection({
     linkLabel: z.string().default("Live"),
     video: z.url().optional(),
     pinned: z.boolean().default(false),
+    wip: z.boolean().default(false),
   })
 });
 

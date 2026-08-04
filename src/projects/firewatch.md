@@ -3,6 +3,7 @@ title: firewatch
 description: A self-hosted, privacy-first FIRE countdown with honest math.
 date: 2026-08-04
 repo: https://github.com/wLotherington/firewatch
+wip: true
 ---
 
 firewatch answers one question: how long until I'm financially independent?
