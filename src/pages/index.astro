@@ -13,11 +13,11 @@ const pinned = allProjects.find((project) => project.data.pinned);
 const otherProjects = allProjects.filter((project) => !project.data.pinned);
 ---
 
-<BaseLayout description="Will Lotherington — software engineer. Writing and projects.">
+<BaseLayout description="Will Lotherington, software engineer. Writing and projects.">
   <h1>Hi, I'm Will.</h1>
   <p>
-    I'm a software engineer at Google. This is my corner of the internet —
-    a place for writing, and for the projects I build on the side.
+    I'm a software engineer at Google. This is my corner of the internet,
+    a place for writing and for the projects I build on the side.
   </p>
 
   <h2>Projects</h2>
@@ -28,7 +28,7 @@ const otherProjects = allProjects.filter((project) => !project.data.pinned);
       <p class="pinned-description">{pinned.data.description}</p>
       <p class="pinned-links">
         <a href={`/projects/${pinned.id}/`}>Read more</a>
-        {pinned.data.link && <> · <a href={pinned.data.link}>Case study</a></>}
+        {pinned.data.link && <> · <a href={pinned.data.link}>{pinned.data.linkLabel}</a></>}
         {pinned.data.repo && <> · <a href={pinned.data.repo}>Source</a></>}
       </p>
     </section>

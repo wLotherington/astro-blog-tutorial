@@ -13,7 +13,7 @@ tutorial and grew into my personal blog and portfolio.
 Built with [Astro](https://astro.build/), fully static, with zero client-side
 JavaScript. Posts and projects are Markdown files in content collections with
 typed frontmatter, and an RSS feed is generated at build time. Deployed on
-Netlify from GitHub — every push to `main` ships automatically.
+Netlify from GitHub; every push to `main` ships automatically.
 
 ## Design
 

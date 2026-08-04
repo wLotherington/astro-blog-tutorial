@@ -1,22 +1,54 @@
 ---
+import { Image } from "astro:assets";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import me from "../assets/me.jpg";
 const pageTitle = "About";
 ---
 
 <BaseLayout pageTitle={pageTitle} description="About Will Lotherington.">
   <h1>About</h1>
 
-  <p>I'm Will Lotherington, a software engineer at Google.</p>
+  <div class="about-intro">
+    <div>
+      <p>
+        I'm Will Lotherington. I strive to be a better learner, and I believe
+        that consistent deliberate practice is paramount.
+      </p>
+      <p>
+        Currently, I'm a senior software engineer at Google. Previously I've
+        been a marketing analyst, an industrial automation application
+        engineer, a machine vision sales engineer, and a
+        photographer/videographer.
+      </p>
+    </div>
+    <Image class="portrait" src={me} alt="Will Lotherington" width={140} densities={[1, 2]} />
+  </div>
 
   <p>
-    This site is where I write about software and share the projects I work on
-    outside of my day job. It's intentionally simple: fast, static, and free of
-    clutter, built with <a href="https://astro.build/">Astro</a>.
-  </p>
-
-  <p>
-    If you'd like to get in touch, you can find me on
-    <a href="https://github.com/wLotherington">GitHub</a> or email me at
-    <a href="mailto:will@lotherington.me">will@lotherington.me</a>.
+    If you'd like to get in touch, you can find me on <a href="https://github.com/wLotherington">GitHub</a> or email me at <a href="mailto:will@lotherington.dev">will@lotherington.dev</a>.
   </p>
 </BaseLayout>
+
+<style>
+  .about-intro {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .about-intro > div {
+    flex: 1;
+  }
+
+  .portrait {
+    flex-shrink: 0;
+    border-radius: 8px;
+  }
+
+  @media (max-width: 480px) {
+    .about-intro {
+      flex-direction: column-reverse;
+    }
+  }
+</style>

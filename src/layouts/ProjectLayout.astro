@@ -7,11 +7,13 @@ const { frontmatter } = Astro.props;
   <article>
     <h1>{frontmatter.title}</h1>
     <p class="article-meta">
+      {frontmatter.date.getFullYear()}
+      {' · '}
       {frontmatter.description}
       {(frontmatter.repo || frontmatter.link) && (
         <span>
           {' · '}
-          {frontmatter.link && <a href={frontmatter.link}>Live</a>}
+          {frontmatter.link && <a href={frontmatter.link}>{frontmatter.linkLabel}</a>}
           {frontmatter.link && frontmatter.repo && ' · '}
           {frontmatter.repo && <a href={frontmatter.repo}>Source</a>}
         </span>

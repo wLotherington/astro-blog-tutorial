@@ -13,7 +13,7 @@ Two or three sentences on the problem the project solves and who it's for.
 
 ## How it works
 
-The interesting technical details — architecture, key decisions, trade-offs you made and why.
+The interesting technical details: architecture, key decisions, and the trade-offs you made and why.
 
 ## What I learned
 

@@ -20,6 +20,7 @@ const projects = defineCollection({
     date: z.date(),
     repo: z.string().url().optional(),
     link: z.string().url().optional(),
+    linkLabel: z.string().default("Live"),
     pinned: z.boolean().default(false),
   })
 });
