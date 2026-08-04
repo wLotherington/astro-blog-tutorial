@@ -11,14 +11,20 @@ const { frontmatter } = Astro.props;
       {' · '}
       {frontmatter.description}
       {(frontmatter.repo || frontmatter.link) && (
-        <span>
-          {' · '}
+        <span class="article-links">
           {frontmatter.link && <a href={frontmatter.link}>{frontmatter.linkLabel}</a>}
           {frontmatter.link && frontmatter.repo && ' · '}
           {frontmatter.repo && <a href={frontmatter.repo}>Source</a>}
         </span>
       )}
     </p>
+
+    <style>
+      .article-links {
+        display: block;
+        margin-top: 0.25rem;
+      }
+    </style>
 
     <slot />
   </article>

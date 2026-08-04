@@ -13,10 +13,10 @@ const pinned = allProjects.find((project) => project.data.pinned);
 const otherProjects = allProjects.filter((project) => !project.data.pinned);
 ---
 
-<BaseLayout description="Will Lotherington, software engineer. Writing and projects.">
+<BaseLayout description="Will Lotherington, senior software engineer. Writing and projects.">
   <h1>Hi, I'm Will.</h1>
   <p>
-    I'm a software engineer at Google. This is my corner of the internet,
+    I'm a senior software engineer at Google. This is my corner of the internet,
     a place for writing and for the projects I build on the side.
   </p>
 
@@ -33,11 +33,11 @@ const otherProjects = allProjects.filter((project) => !project.data.pinned);
       </p>
     </section>
   )}
-  <ul class="item-list">
+  <ul class="home-project-list">
     {otherProjects.map((project) => (
       <li>
         <a href={`/projects/${project.id}/`}>{project.data.title}</a>
-        <span class="muted">{project.data.description}</span>
+        <p class="muted">{project.data.description}</p>
       </li>
     ))}
   </ul>
@@ -88,5 +88,28 @@ const otherProjects = allProjects.filter((project) => !project.data.pinned);
     margin: 0;
     font-size: 0.9375rem;
     color: var(--color-muted);
+  }
+
+  .home-project-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .home-project-list li {
+    margin-bottom: 1rem;
+  }
+
+  .home-project-list a {
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .home-project-list a:hover {
+    text-decoration: underline;
+  }
+
+  .home-project-list p {
+    margin: 0.125rem 0 0;
   }
 </style>

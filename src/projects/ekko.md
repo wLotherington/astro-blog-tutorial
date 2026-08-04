@@ -27,7 +27,7 @@ scalable realtime infrastructure to AWS with a CLI tool, and process messages
 
 Deploying the whole thing takes a single command from the Ekko CLI:
 
-<video controls muted playsinline preload="metadata" src="/projects/ekko-deploy-teal.mp4" style="border-radius: 12px;" aria-label="Terminal recording of deploying Ekko from the CLI"></video>
+<video controls muted playsinline preload="metadata" poster="/projects/ekko-deploy-poster.jpg" src="/projects/ekko-deploy-teal.mp4" style="border-radius: 12px;" aria-label="Terminal recording of deploying Ekko from the CLI"></video>
 
 ## Learn more
 
