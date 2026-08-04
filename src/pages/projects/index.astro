@@ -17,7 +17,12 @@ const projects = (await getCollection("projects"))
       <li>
         <a href={`/projects/${project.id}/`}>{project.data.title}</a>
         <span class="muted year">{project.data.date.getUTCFullYear()}</span>
-        {project.data.pinned && <span class="pin-label">Pinned</span>}
+        {project.data.pinned && (
+          <svg class="pin-icon" viewBox="0 0 16 16" width="14" height="14" role="img" aria-label="Pinned">
+            <title>Pinned</title>
+            <path fill="currentColor" d="m11.294.984 3.722 3.722a1.75 1.75 0 0 1-.663 2.888l-1.928.643a3.75 3.75 0 0 0-2.288 2.288l-.643 1.928a1.75 1.75 0 0 1-2.888.663L4.75 12.06l-3.72 3.72a.748.748 0 0 1-1.265-.332.75.75 0 0 1 .205-.729l3.72-3.72-1.853-1.853a1.75 1.75 0 0 1 .663-2.888l1.928-.643a3.75 3.75 0 0 0 2.288-2.288l.643-1.928a1.75 1.75 0 0 1 2.888-.663Z"/>
+          </svg>
+        )}
         <p class="muted">{project.data.description}</p>
       </li>
     ))}
@@ -54,15 +59,9 @@ const projects = (await getCollection("projects"))
     font-variant-numeric: tabular-nums;
   }
 
-  .pin-label {
-    margin-left: 0.5rem;
-    font-size: 0.75rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
+  .pin-icon {
+    margin-left: 0.375rem;
     color: var(--color-muted);
-    border: 1px solid var(--color-faint);
-    border-radius: 4px;
-    padding: 0.0625rem 0.375rem;
-    vertical-align: 0.125rem;
+    vertical-align: -0.0625rem;
   }
 </style>
