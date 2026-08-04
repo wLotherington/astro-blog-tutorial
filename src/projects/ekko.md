@@ -33,5 +33,7 @@ Deploying the whole thing takes a single command from the Ekko CLI:
 
 The full engineering story, covering the problem space, architecture, and
 trade-offs, is in the [case study](https://ekko-realtime.com/). The source is
-on [GitHub](https://github.com/ekko-realtime). Built with Alex Strick van
-Linschoten, Dorey Miller, and Drew Holbrook.
+on [GitHub](https://github.com/ekko-realtime), and you can
+[watch the talk](https://www.youtube.com/watch?v=c9YtUud3u0o) I gave about
+Ekko at JS Monthly. Built with Alex Strick van Linschoten, Dorey Miller, and
+Drew Holbrook.
