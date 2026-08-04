@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://projects-and-thoughts.netlify.app/sitemap-index.xml
+Sitemap: https://wlotherington.netlify.app/sitemap-index.xml
