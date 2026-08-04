@@ -11,6 +11,8 @@ plate/bowl hybrid dish, built on the premise that dogs figured out the ideal
 dish shape years ago. It has the full startup-launch treatment: feature
 sections, product specs, color options, FAQs, and a waitlist signup.
 
+![The Human Bowl landing page hero: "Finally. A Dish That Gets It." next to a terracotta bowl of steaming pasta](../assets/human-bowl-hero.png)
+
 ## Why it's here
 
 The site itself is a toy. What made it worth keeping is how it was made: this
