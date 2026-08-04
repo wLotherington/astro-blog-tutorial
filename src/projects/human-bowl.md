@@ -3,6 +3,7 @@ title: Human Bowl
 description: A toy landing page for a plate/bowl hybrid, one-shotted by an LLM, images and all.
 date: 2026-01-16
 link: https://humanbowl.com/
+repo: https://github.com/wLotherington/human_bowl
 ---
 
 [Human Bowl](https://humanbowl.com/) is a joke product landing page for a
