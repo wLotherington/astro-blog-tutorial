@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wlotherington.com/sitemap-index.xml
+Sitemap: https://lotherington.me/sitemap-index.xml

@@ -1,2 +1,8 @@
+# Legacy domains 301 to the canonical domain, preserving paths
+https://wlotherington.com/* https://lotherington.me/:splat 301!
+http://wlotherington.com/* https://lotherington.me/:splat 301!
+https://www.wlotherington.com/* https://lotherington.me/:splat 301!
+http://www.wlotherington.com/* https://lotherington.me/:splat 301!
+
 # Old Jekyll site URL that accumulated inbound links
 /2020/10/25/what-is-launch-school.html  /posts/what-is-launch-school/  301
