@@ -18,7 +18,8 @@ JavaScript.
 | :---------------- | :---------------------------------------- |
 | `npm install`     | Install dependencies                      |
 | `npm run dev`     | Start dev server at `localhost:4321`      |
-| `npm run build`   | Build the production site to `./dist/`    |
+| `npm run check`   | Type-check the project                    |
+| `npm run build`   | Type-check, then build the site to `./dist/` |
 | `npm run preview` | Preview the production build locally      |
 
 ## Deployment

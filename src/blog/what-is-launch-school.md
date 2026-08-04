@@ -5,7 +5,7 @@ description: "Why is Launch School better than a bootcamp, college, or MOOC?"
 tags: ["learning", "launch-school", "career"]
 ---
 
-![](/blog/what-is-launch-school-1.jpeg) Photo by [SpaceX](https://unsplash.com/@spacex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/rocket-in-space?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![Long-exposure photo of a rocket launch arcing into a twilight sky](/blog/what-is-launch-school-1.jpeg) Photo by [SpaceX](https://unsplash.com/@spacex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/rocket-in-space?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ### Why is [Launch School](http://launchschool.com/) better than a bootcamp/college/mooc?
 

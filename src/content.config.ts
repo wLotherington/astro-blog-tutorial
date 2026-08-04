@@ -18,8 +18,8 @@ const projects = defineCollection({
     title: z.string(),
     description: z.string(),
     date: z.date(),
-    repo: z.string().url().optional(),
-    link: z.string().url().optional(),
+    repo: z.url().optional(),
+    link: z.url().optional(),
     linkLabel: z.string().default("Live"),
     pinned: z.boolean().default(false),
   })

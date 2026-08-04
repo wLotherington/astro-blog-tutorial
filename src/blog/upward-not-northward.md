@@ -5,7 +5,7 @@ description: "What Flatland taught me about growth, truth, and learning."
 tags: ["learning", "philosophy"]
 ---
 
-![](/blog/upward-not-northward-1.png)
+![Title page of Flatland: A Romance of Many Dimensions, by A Square (Edwin A. Abbott)](/blog/upward-not-northward-1.png)
 
 The book _Flatland_ tells the story of a 2 dimensional square who is given a glimpse of 3 dimensional truth. Upon returning to his 2 dimensional plane world, he repeats the mantra _upward, not northward_ regularly as a reminder of the seemingly impossible yet imperative “upward” move required to elevate oneself to a higher dimension. Although he dies in obscurity, never convincing others of the 3rd dimension, he maintains his tight grasp on the truth of the 3rd dimension until the end.
 

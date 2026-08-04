@@ -5,7 +5,7 @@ description: "How to sustain serious learning alongside a full-time job."
 tags: ["learning", "launch-school", "career"]
 ---
 
-![](/blog/full-time-job-and-launch-school-1.jpeg)
+![Illustration of a person in a suit riding a unicycle across a tightrope over a chasm, holding an umbrella and a briefcase](/blog/full-time-job-and-launch-school-1.jpeg)
 
 > **Although dropping everything else and focusing absolutely on learning a single new skill would be ideal, it is not always practically possible.**
 
@@ -43,7 +43,7 @@ For deliberate practice, it is also important that you have an environment where
 
 This proved to be significantly more challenging for me since I spend most of my day away from home and travel a decent amount for work. It would probably be ideal to have a desk setup at home with a high quality chair, mechanical keyboard, and multiple monitors, but unfortunately that is not practically possible. After some testing I found that I can focus reasonably well in my car, so I now spend my mornings and lunch breaks looking slightly ridiculous working on LS in my car. To overcome the screen real estate limitation, I purchased an iPad air and use the [Duet Display](https://www.duetdisplay.com/) app and [mountie+](https://tenonedesign.com/mountieplus.php) to get a second monitor no matter where I am.
 
-![](/blog/full-time-job-and-launch-school-2.jpeg)
+![A MacBook with an iPad mounted beside it as a second monitor, set up for studying in the front seat of a car](/blog/full-time-job-and-launch-school-2.jpeg)
 
 It’s not a perfect solution, but it is workable for now.
 
