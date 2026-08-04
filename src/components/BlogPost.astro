@@ -1,4 +1,9 @@
 ---
-const { title, url } = Astro.props;
+const { url, title, date } = Astro.props;
 ---
-<li><a href={url}>{title}</a></li>
+<li>
+  <time datetime={date.toISOString()}>
+    {date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+  </time>
+  <a href={url}>{title}</a>
+</li>

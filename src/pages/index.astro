@@ -1,11 +1,38 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
-import Greeting from '../components/Greeting';
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import BlogPost from "../components/BlogPost.astro";
 
-const pageTitle = "Home Page";
+const posts = (await getCollection("blog"))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 5);
+
+const projects = (await getCollection("projects"))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 ---
 
-<BaseLayout pageTitle={pageTitle}>
-	<h2>My awesome blog subtitle</h2>
-	<Greeting client:load messages={["Hi", "Hello", "Howdy", "Hey there"]} />
+<BaseLayout description="Will Lotherington — software engineer. Writing and projects.">
+  <h1>Hi, I'm Will.</h1>
+  <p>
+    I'm a software engineer at Google. This is my corner of the internet —
+    a place for writing, and for the projects I build on the side.
+  </p>
+
+  <h2>Recent writing</h2>
+  <ul class="item-list">
+    {posts.map((post) => (
+      <BlogPost url={`/posts/${post.id}/`} title={post.data.title} date={post.data.pubDate} />
+    ))}
+  </ul>
+  <p><a href="/blog/">All posts →</a></p>
+
+  <h2>Projects</h2>
+  <ul class="item-list">
+    {projects.map((project) => (
+      <li>
+        <a href={`/projects/${project.id}/`}>{project.data.title}</a>
+        <span class="muted">{project.data.description}</span>
+      </li>
+    ))}
+  </ul>
 </BaseLayout>

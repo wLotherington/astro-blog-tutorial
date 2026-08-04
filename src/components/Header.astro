@@ -1,22 +1,42 @@
 ---
-import Menu from './Menu.astro';
-import Navigation from './Navigation.astro';
-import ThemeIcon from './ThemeIcon.astro';
 ---
 
 <header>
+  <a class="site-name" href="/">Will Lotherington</a>
   <nav>
-    <div>
-      <ThemeIcon />
-      <Menu />
-    </div>
-    <Navigation />
+    <a href="/blog/">Writing</a>
+    <a href="/projects/">Projects</a>
+    <a href="/about/">About</a>
   </nav>
 </header>
 
 <style>
-  div {
+  header {
     display: flex;
+    align-items: baseline;
     justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.5rem;
+    margin-bottom: 3rem;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .site-name {
+    font-weight: 600;
+  }
+
+  nav {
+    display: flex;
+    gap: 1.25rem;
+    font-size: 0.9375rem;
+    color: var(--color-muted);
   }
 </style>

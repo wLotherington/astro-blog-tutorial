@@ -1,0 +1,23 @@
+---
+import BaseLayout from './BaseLayout.astro';
+const { frontmatter } = Astro.props;
+---
+
+<BaseLayout pageTitle={frontmatter.title} description={frontmatter.description}>
+  <article>
+    <h1>{frontmatter.title}</h1>
+    <p class="article-meta">
+      {frontmatter.description}
+      {(frontmatter.repo || frontmatter.link) && (
+        <span>
+          {' · '}
+          {frontmatter.link && <a href={frontmatter.link}>Live</a>}
+          {frontmatter.link && frontmatter.repo && ' · '}
+          {frontmatter.repo && <a href={frontmatter.repo}>Source</a>}
+        </span>
+      )}
+    </p>
+
+    <slot />
+  </article>
+</BaseLayout>
